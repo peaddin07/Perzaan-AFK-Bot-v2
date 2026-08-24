@@ -2,7 +2,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Addin er chele",
+    "username": "SenpaiSoull",
     "password": "",
     "type": "offline"
   },
@@ -27,12 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "A",
+        "Subscribe to Perzaan Gaming!",
         "I like to play Minecraft!"
       ]
     },
@@ -89,4 +89,4 @@
   "chat": {
     "respond": true
   }
-    }
+}
